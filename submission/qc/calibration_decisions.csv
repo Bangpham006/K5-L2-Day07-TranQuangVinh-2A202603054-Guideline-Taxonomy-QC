@@ -1,0 +1,94 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_002.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C002,img_002.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C003,img_002.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C004,img_002.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C005,img_002.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C006,img_002.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C007,img_002.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C008,img_002.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C009,img_002.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C010,img_004.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C011,img_004.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C012,img_004.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C013,img_005.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C014,img_005.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C015,img_005.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C016,img_005.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C017,img_005.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C018,img_005.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C019,img_005.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C020,img_005.jpg,Xác nhận đối tượng nhìn thấy rõ và đạt ngưỡng kích thước tối thiểu,"R-16, R-02",v1.1,"101,102",Xóa cờ can_review và giữ box chuẩn xác,Đạt sau khi đối chiếu,anh
+C021,img_005.jpg,Xác nhận đối tượng nhìn thấy rõ và đạt ngưỡng kích thước tối thiểu,"R-16, R-02",v1.1,"101,102",Xóa cờ can_review và giữ box chuẩn xác,Đạt sau khi đối chiếu,anh
+C022,img_005.jpg,Xác nhận đối tượng nhìn thấy rõ và đạt ngưỡng kích thước tối thiểu,"R-16, R-02",v1.1,"101,102",Xóa cờ can_review và giữ box chuẩn xác,Đạt sau khi đối chiếu,anh
+C023,img_005.jpg,Xác nhận đối tượng nhìn thấy rõ và đạt ngưỡng kích thước tối thiểu,"R-16, R-02",v1.1,"101,102",Xóa cờ can_review và giữ box chuẩn xác,Đạt sau khi đối chiếu,anh
+C024,img_005.jpg,Xác nhận đối tượng nhìn thấy rõ và đạt ngưỡng kích thước tối thiểu,"R-16, R-02",v1.1,"101,102",Xóa cờ can_review và giữ box chuẩn xác,Đạt sau khi đối chiếu,anh
+C025,img_005.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C026,img_005.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C027,img_005.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C028,img_005.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C029,img_005.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C030,img_005.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C031,img_006.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C032,img_006.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C033,img_006.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C034,img_006.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C035,img_006.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C036,img_006.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C037,img_006.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C038,img_006.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C039,img_006.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C040,img_006.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C041,img_006.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C042,img_006.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C043,img_006.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C044,img_006.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C045,img_006.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C046,img_006.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C047,img_006.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C048,img_006.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C049,img_006.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C050,img_006.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C051,img_006.jpg,Hiệu chỉnh truncated theo tỷ lệ cắt mép ảnh thực tế,R-08,v1.1,"101,102",Cập nhật giá trị truncated theo tỷ lệ cắt mép,Đạt sau khi đối chiếu,anh
+C052,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C053,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C054,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C055,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C056,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C057,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C058,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C059,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C060,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C061,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C062,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C063,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C064,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C065,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C066,img_008.jpg,"Thống nhất ranh giới ignore_region bao trùm cụm xa, không đè tiền cảnh","R-06, R-14",v1.1,"101,102",Điều chỉnh hộp ignore_region ôm trọn cụm xe xa,Đạt sau khi đối chiếu,anh
+C067,img_008.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C068,img_008.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C069,img_008.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C070,img_008.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C071,img_008.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C072,img_008.jpg,Xác nhận đối tượng nhìn thấy rõ và đạt ngưỡng kích thước tối thiểu,"R-16, R-02",v1.1,"101,102",Xóa cờ can_review và giữ box chuẩn xác,Đạt sau khi đối chiếu,anh
+C073,img_008.jpg,Xác nhận đối tượng nhìn thấy rõ và đạt ngưỡng kích thước tối thiểu,"R-16, R-02",v1.1,"101,102",Xóa cờ can_review và giữ box chuẩn xác,Đạt sau khi đối chiếu,anh
+C074,img_008.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C075,img_008.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C076,img_008.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C077,img_008.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C078,img_008.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C079,img_012.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C080,img_012.jpg,Chốt lớp truck cho xe bán tải có khoang thùng theo R-10,R-10,v1.1,"101,102",Sửa nhãn car thành truck theo quyết định 101,Đạt sau khi đối chiếu,anh
+C081,img_012.jpg,Hiệu chỉnh truncated theo tỷ lệ cắt mép ảnh thực tế,R-08,v1.1,"101,102",Cập nhật giá trị truncated theo tỷ lệ cắt mép,Đạt sau khi đối chiếu,anh
+C082,img_012.jpg,Hiệu chỉnh truncated theo tỷ lệ cắt mép ảnh thực tế,R-08,v1.1,"101,102",Cập nhật giá trị truncated theo tỷ lệ cắt mép,Đạt sau khi đối chiếu,anh
+C083,img_026.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C084,img_026.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-03, R-02",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C085,img_026.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C086,img_026.jpg,Hiệu chỉnh truncated theo tỷ lệ cắt mép ảnh thực tế,R-08,v1.1,"101,102",Cập nhật giá trị truncated theo tỷ lệ cắt mép,Đạt sau khi đối chiếu,anh
+C087,img_026.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C088,img_040.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C089,img_040.jpg,"Giữ lại đối tượng thực tế nhìn thấy đạt trên 20px, loại box nhiễu","R-02, R-05",v1.1,"101,102",Thêm box bị bỏ sót hoặc xóa box vẽ ngoài phạm vi,Đạt sau khi đối chiếu,anh
+C090,img_040.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C091,img_040.jpg,Nắn chỉnh tọa độ box ôm sát biên nhìn thấy với sai số dưới 2px,R-02,v1.1,"101,102",Điều chỉnh lại tọa độ box ôm sát viền đối tượng,Đạt sau khi đối chiếu,anh
+C092,img_040.jpg,Hiệu chỉnh occluded_level theo đúng tỷ lệ diện tích bị che,R-07,v1.1,"101,102",Cập nhật giá trị occluded_level chuẩn theo thang 4 mức,Đạt sau khi đối chiếu,anh
+C093,img_040.jpg,Hiệu chỉnh truncated theo tỷ lệ cắt mép ảnh thực tế,R-08,v1.1,"101,102",Cập nhật giá trị truncated theo tỷ lệ cắt mép,Đạt sau khi đối chiếu,anh

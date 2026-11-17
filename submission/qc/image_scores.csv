@@ -1,0 +1,13 @@
+image,n_annotators,n_issues,score,needs_calibration
+img_008.jpg,2,27,32,yes
+img_006.jpg,2,21,27,yes
+img_005.jpg,2,18,25,yes
+img_002.jpg,2,9,11,yes
+img_040.jpg,2,6,8,yes
+img_026.jpg,2,5,7,yes
+img_012.jpg,2,4,5,yes
+img_004.jpg,2,3,4,yes
+img_017.jpg,2,0,0,no
+img_020.jpg,2,0,0,no
+img_027.jpg,2,0,0,no
+img_033.jpg,2,0,0,no
